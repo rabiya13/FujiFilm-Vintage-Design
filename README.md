@@ -24,6 +24,3 @@ This project presents a product showcase website UI for Fujifilm Instax cameras 
 
 ## 🛠 Tools Used
 - Figma 
-![Home](./images/home.png)
-![Products](./images/products.png)
-![Details](./images/details.png)
