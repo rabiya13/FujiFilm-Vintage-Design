@@ -1,5 +1,5 @@
 # FujiFilm-Vintage- Camera-Design-UI/UX Design
-Designed a modern UI/UX desigm concept for Fujifilm Instax cameras in Figma, with smart animation  highlighting product evolution from bulky devices to sleek, portable gadgets with a user-centered visual flow.
+Designed a modern UI/UX design concept for Fujifilm Instax cameras in Figma, with smart animation  highlighting product evolution from bulky devices to sleek, portable gadgets with a user-centered visual flow.
 
 🔗 **Figma Design:**  
 https://www.figma.com/proto/rU2VLwJMxvLUwkpK8LiHuz/WEBSITE-DESIGNS?page-id=382%3A5&node-id=400-194&p=f&viewport=301%2C-535%2C0.24&t=YZmeJ5BDwamBRd74-1&scaling=scale-down&content-scaling=fixed
